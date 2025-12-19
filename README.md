@@ -1,17 +1,15 @@
 Hey there! 👋
 
-I'm **Toan Dang Quoc**, a Python developer based in **Vietnam** 🇻🇳
+I'm **Toan Dang Quoc**, a **Python developer** based in **Vietnam** 🇻🇳  
+with a background in **Data Science** and a clear focus on becoming a **Data Engineer**.
 
-I build backend and data-driven applications with Python.  
-With a background in **Data Science** and experience as both a **Software Engineer** and **Network Engineer**,  
-I'm currently moving toward the **Data Engineer** path.
+I work mainly with Python to build **data-driven and backend systems**,  
+with hands-on experience in backend development and system infrastructure.
 
-My main tech stack includes **Python, SQL, Django, FastAPI, Flask**, and **Selenium**.
+**Tech stack:** Python, SQL, Django, FastAPI, Flask, Selenium
 
-I've got several pinned projects, but my favorite one is **Tesla Stock Forecasting**,  
-where I work on time-series analysis and stock price prediction.
+My favorite pinned project is **Tesla Stock Forecasting**,  
+where I apply time-series analysis and data processing techniques.
 
-**Fun facts:**
-- ☕ I love coffee and drink a cup every morning  
-- 🧑‍💻 Switched from software to network engineering despite a data science background  
-- ⚽ Hobbies: football, coding, and following global news
+**Outside of work:**  
+☕ coffee lover · ⚽ football · 🌍 global news
